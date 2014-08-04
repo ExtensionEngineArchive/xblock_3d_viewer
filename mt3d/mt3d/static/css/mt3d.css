@@ -1,0 +1,23 @@
+/* CSS for ModelViewer */
+
+#model_name
+{
+  margin-bottom: 10px;
+}
+
+#cv_cont
+{
+   overflow-x:auto;
+}
+
+#cv
+{
+    height: 400px;
+    width: 750px;
+
+}
+
+p.error
+{
+    color: red;
+}

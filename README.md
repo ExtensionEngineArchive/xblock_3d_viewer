@@ -1,6 +1,3 @@
-xblock_3d_viewer
-================
-
 # 3D Viewer edX XBlock #
 This XBlock allows students to upload .obj 3D models and use them as part of a course.
 You can easily integrate the XBlock into Open edX platform.
